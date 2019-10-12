@@ -24,7 +24,7 @@ print(dataframe.dtypes)#dataframe hakkında özet bilgi verir
 
 #count=6 yani 6 satırn var
 #mean= sütunların ortalamlarını verir
-#std sonra öğrenirim
+#std standart sapmayı verir.
 #min= sütunların min değerini verir
 #max= sütunların max değerini verir
 #%25 vs sonra öğrenirim
